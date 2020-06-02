@@ -1,0 +1,23 @@
+.detalhe {
+    grid-column: span 3;
+}
+
+main#cometa a{
+    grid-column: span 3;
+}
+
+.btn-home {
+
+    color: var(--color-red);
+    background-color: #fff;
+    text-align: center;
+    border-radius: .5rem;
+    padding: .5rem;
+    font-weight: bold;
+}
+
+.cometa-hazardous{
+    text-transform: uppercase;
+    color: var(--colo-red);
+    font-weight: bold;
+}
